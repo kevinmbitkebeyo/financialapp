@@ -45,7 +45,7 @@ const router = useRouter()
             Tout ce que j&apos;aime
           </h1>
           <p className="text-gray-600 text-lg">
-           
+           Rentabiliser vos investissements grace à ma plateforme. Téléchargez l&apos;application, créez votre compte et commencez votre aventure.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
             <Button onClick={()=>router.push("/register")} className="w-full sm:w-auto">Se connecter</Button>
